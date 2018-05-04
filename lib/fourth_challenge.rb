@@ -14,7 +14,7 @@ def fourth_challenge
         :age => "18",
         :attitude => "hot-headed"
       }
-      
+
         #your hashes here!
       ]
    },
@@ -26,6 +26,11 @@ def fourth_challenge
         :name => "Stevens",
         :age => "30",
         :attitude => "confused"
+      },
+      {
+        :name => "Nurse",
+        :age => "44",
+        :attitude => "worried"
       }
         #your hashes here!
       ]
